@@ -10,10 +10,10 @@ Shake Sort
 
 [Shake sort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) is a refinement of bubble sort.
 
+![Shake sort](gifs/shake_sort.gif)
+
 Insertion Sort
 ==============
-
-
 
 ![Insertion sort](gifs/insertion_sort.gif)
 
