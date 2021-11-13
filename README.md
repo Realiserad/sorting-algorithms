@@ -1,7 +1,7 @@
 Bubblesort
 ==========
 
-[Bubblesort] is easy to implement but is also known as one of the slowest sorting algorithms. When Obama was asked what the fastest way to sort a million 32-bit integers was, he famously responded with "[the Bubblesort would be the wrong way to go](https://www.youtube.com/watch?v=k4RRi_ntQc8)".
+Bubblesort is easy to implement but is also known as one of the slowest sorting algorithms. When Obama was asked what the fastest way to sort a million 32-bit integers was, he famously responded with "[the Bubblesort would be the wrong way to go](https://www.youtube.com/watch?v=k4RRi_ntQc8)".
 
 ![Bubblesort](gifs/bubblesort.gif)
 
