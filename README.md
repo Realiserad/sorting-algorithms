@@ -5,12 +5,12 @@ Bubblesort is easy to implement but is also known as one of the slowest sorting 
 
 ![Bubblesort](gifs/bubblesort.gif)
 
-Shake Sort
-==========
+Shakesort
+=========
 
-[Shake sort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) is a refinement of bubble sort.
+[Shakesort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) is a refinement of bubble sort.
 
-![Shake sort](gifs/shake_sort.gif)
+![Shake sort](gifs/shakesort.gif)
 
 Insertion Sort
 ==============
