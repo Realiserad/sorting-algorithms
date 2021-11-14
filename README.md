@@ -8,7 +8,7 @@ Bubblesort is easy to implement but is also known as one of the slowest sorting 
 Shakesort
 =========
 
-[Shakesort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) is a refinement of bubble sort.
+[Shakesort](https://en.wikipedia.org/wiki/Cocktail_shaker_sort) is a refinement of bubble sort. However, it is still not very efficient.
 
 ![Shake sort](gifs/shakesort.gif)
 
